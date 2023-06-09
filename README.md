@@ -1,7 +1,7 @@
 # Мое портфолио
 
 ## Уважаемы работодатели из сферы IT. Молю Вас обратите внимание на ***МОЕ РЕЗЮМЕ***.
-![Фото](C:\Users\ZSV\Desktop\portf\1666257993_1-mykaleidoscope-ru-p-ustavshii-programmist-krasivo-1.jpg)
+![Фото](https://github.com/ZSV69/port/blob/main/1666257993_1-mykaleidoscope-ru-p-ustavshii-programmist-krasivo-1.jpg?raw=true)
 
 Я очень устал работать в продажах и поэтому каждую ночь вместе с ![Изображение](C:\Users\ZSV\Desktop\portf\uhyaowik69egmjpj0iaa.png) осваиваю професиию **ИНЖЕНЕР ПО ТЕСТИРОВАНИЮ**
 
